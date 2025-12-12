@@ -6,5 +6,5 @@ A simple booking website.
 Just open `index.html`
 
 
-**[Live Demo]()**
+**[Live Demo](https://alyshahzad.github.io/Cloud-Booking/)**
 
